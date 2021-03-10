@@ -1,8 +1,12 @@
-name: Marcel F. Roman
+name: "Marcel F. Roman"
 output_dir: "."
 navbar: 
   title: "Marcel F. Roman"
   left: 
+    - text: "Home"
+      href: index.html 
+    - text: "CV"
+      href: cv.html 
     - text: "Research"
       href: research.html 
     - text: "Teaching"
@@ -17,7 +21,6 @@ navbar:
 output:
   html_document:
     theme: paper
-    css: 'styles.css'
 
 
     

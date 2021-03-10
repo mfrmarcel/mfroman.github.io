@@ -1,4 +1,26 @@
 ---
+layout: page
+title: Teaching
+permalink: /teaching/
 ---
 
-This is a test teaching page
+
+## Graduate 
+
+**Instructor:**
+
+UCLA Political Science Graduate Math Camp (2018-2019)
+
+## Undergraduate
+
+**Teaching Assistant:**
+
+Introductory Data Analysis, UCLA (Fall 2017)
+
+Comparative Politics, UCLA (Winter 2018)
+
+International Migration, UCLA (Spring 2018; Spring 2020)
+
+Latino Politics, UCLA (Fall 2019)
+
+History of Affirmative Action, UCLA (Winter 2020)
