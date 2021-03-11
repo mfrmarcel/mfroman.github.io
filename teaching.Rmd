@@ -11,6 +11,8 @@ permalink: /teaching/
 
 UCLA Political Science Graduate Math Camp (2018-2019)
 
+Introduction to Data Analysis with R Graduate Sessions (2018-2019)
+
 ## Undergraduate
 
 **Teaching Assistant:**
