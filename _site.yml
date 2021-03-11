@@ -1,4 +1,4 @@
-name: "Marcel F. Roman"
+name: "Marcel Roman"
 output_dir: "."
 navbar: 
   title: "Marcel F. Roman"
@@ -21,6 +21,12 @@ navbar:
 output:
   html_document:
     theme: paper
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "www.marcelroman.com" # the base hostname & protocol for your site
+twitter_username: mfr_roman	
+github_username:  mfrmarcel
+
+
 
 
     

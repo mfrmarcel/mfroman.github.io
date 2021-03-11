@@ -1,8 +1,14 @@
 ---
+layout: page
+title: "Marcel Roman"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <img src="files/headshot.png" align="left" hspace="15" vspace="5" style="width:35%">
 
-Marcel Roman is a PhD candidate in political science at the University of California-Los Angeles specializing in Race and Ethnic Politics (REP). His dissertation project examines how an increasingly restrictive immigration enforcement environment over the past 30 years motivates and maintains progressive political commitments among Latinx communities despite countervailing conservative forces. His [job market paper](pdfs/wps/deportation_threat.pdf) challenges canonical theories of immigrant acculturation and provides evidence threatening immigration enforcement contexts forestall attitudinal assimilation with Anglo whites among Latinxs.  His research has been published in the <i> Journal of Race, Ethnicity and Politics </i> and the <i> UCLA Law Review </i>
+<p> Marcel Roman is a PhD candidate in political science at the University of California-Los Angeles specializing in Race and Ethnic Politics (REP) and a research fellow at the Latino Politics and Policy Initiative (LPPI). In the Fall of 2021, he will start a postdoctoral position as a Provost's Early Career Fellow at the University of Texas-Austin in political science. </p>
+
+<p> His dissertation project examines how an increasingly restrictive immigration enforcement environment over the past 30 years motivates and maintains progressive political commitments among Latinx communities despite countervailing conservative forces. His [job market paper](pdfs/wps/deportation_threat.pdf) challenges canonical theories of immigrant acculturation and provides evidence threatening immigration enforcement contexts forestall attitudinal assimilation with Anglo whites among Latinxs.  His research has been published in the <i> Journal of Race, Ethnicity and Politics </i> and the <i> UCLA Law Review. </i> </p>
+
+<p> He has also served as an expert consultant on multiple lawsuits related to immigrant rights and immigrant incorporation including <i> New York vs. ICE </i> and <i> New York vs. United States Department of Commerce. </i> </p>
