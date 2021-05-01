@@ -14,14 +14,6 @@ permalink: /research/
 
 Consistent with straight line assimilation theory, prior research demonstrates acculturation generates attitudinal convergence between immigrant group members and host country natives along several policy dimensions, including immigration. However, other perspectives suggest attitudinal convergence is not guaranteed in contexts where immigrant group members experience rebuff from the host country. I reconcile the perspectives and answer the puzzle of persistent pro-immigrant policy preferences among integrated Latinxs. In light of heightened interior immigration enforcement and the increased societal integration of undocumented immigrants in the U.S., I demonstrate perceptibly threatening immigration enforcement contexts forestall attitudinal convergence on immigration policy preferences across 6 nationally representative surveys of Latinxs. Absent deportation threat, Latinx immigration policy attitudes converge with white Anglos. Deportation threat operates net of well-established alternative mechanisms such as discrimination, ethnic context(s), and ethnic identity. These results problematize preexisting conclusions on the political consequences of threat and suggest attitudinal assimilation is not preordained among immigrant group members.
 
-**How Social Ties with Undocumented Immigrants Motivate Latinx Political Participation (first author, with Hannah Walker and Matt Barreto)** *Conditionally Accepted at Political Research Quarterly* [[PDF]](pdfs/wps/contact_threat.pdf)
-
-<center>
-<img src="files/resp3.png" vspace="5" style="width:50%">
-</center>
-
-Prior research suggests social ties with undocumented immigrants among Latinxs may increase political engagement despite constraints undocumented social networks may introduce. We build on prior research and find across six surveys of Latinxs that social ties with undocumented immigrants are reliably associated with collective, identity expressive activities such as protesting, but not activities where immigration may not be immediately relevant, such as voting. Moreover, we assess a series of mechanisms to resolve the puzzle of heightened participation despite constraints. Consistent with prior research at the intersection of anti-immigrant threat and Social Identity Theory, we find Latinxs with strong ethnic identification are more likely to engage in political protest in the presence of social ties with undocumented immigrants, whereas weak identifiers disengage. We rule out alternative mechanisms that could link undocumented social ties with participation including political efficacy, a sense of injustice, linked fate, acculturation, out-group perceptions of immigration status, partisan identity, conducive opportunity structures, pro-sociality, and liberal ideological motivations irrelevant to immigration. Our contribution suggests the reason social ties with undocumented immigrants are not necessarily a hindrance to political engagement among Latinx immigrants and their co-ethnics is because they can draw from identitarian resources to overcome participatory constraints 
-
 **Less Policing, Less Problems: The Impact of Strategic Depolicing (with Donald Grasse)** [[PDF]](pdfs/wps/depolicing_nash.pdf)
 
 <center>
@@ -41,6 +33,13 @@ Does expanding the role of the police to include immigration enforcement reduce 
 
 ## Publications
 
+**How Social Ties with Undocumented Immigrants Motivate Latinx Political Participation (first author, with Hannah Walker and Matt Barreto)** *Forthcoming, Political Research Quarterly* [[PDF]](pdfs/wps/contact_threat.pdf) [[Replication]](https://www.dropbox.com/s/ywh8fwa9ms02nnc/replication_folder.zip?dl=0)
+
+<center>
+<img src="files/resp3.png" vspace="5" style="width:50%">
+</center>
+
+Prior research suggests social ties with undocumented immigrants among Latinxs may increase political engagement despite constraints undocumented social networks may introduce. We build on prior research and find across six surveys of Latinxs that social ties with undocumented immigrants are reliably associated with collective, identity expressive activities such as protesting, but not activities where immigration may not be immediately relevant, such as voting. Moreover, we assess a series of mechanisms to resolve the puzzle of heightened participation despite constraints. Consistent with prior research at the intersection of anti-immigrant threat and Social Identity Theory, we find Latinxs with strong ethnic identification are more likely to engage in political protest in the presence of social ties with undocumented immigrants, whereas weak identifiers disengage. We rule out alternative mechanisms that could link undocumented social ties with participation including political efficacy, a sense of injustice, linked fate, acculturation, out-group perceptions of immigration status, partisan identity, conducive opportunity structures, pro-sociality, and liberal ideological motivations irrelevant to immigration. Our contribution suggests the reason social ties with undocumented immigrants are not necessarily a hindrance to political engagement among Latinx immigrants and their co-ethnics is because they can draw from identitarian resources to overcome participatory constraints 
 
 **The Ripple Effect: The Political Consequences of Proximal Contact with Immgration Enforcement (with Matt Barreto and Hannah Walker)** *Journal of Race Ethnicity and Politics* [[PDF]](pdfs/wps/ripple_effect.pdf)
 
