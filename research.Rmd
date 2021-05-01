@@ -4,33 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-
-## Working Papers 
-
-**Living in the Shadow of Deportation: How Deportation Threat Forestalls Attitudinal Assimilation Among Immigrants and Their Co-Ethnics (Job Market Paper)** *Under Review* [[PDF]](pdfs/wps/deportation_threat.pdf)
-<center>
-<img src="files/pp_final.png" vspace="5" style="width:60%">
-</center>
-
-Consistent with straight line assimilation theory, prior research demonstrates acculturation generates attitudinal convergence between immigrant group members and host country natives along several policy dimensions, including immigration. However, other perspectives suggest attitudinal convergence is not guaranteed in contexts where immigrant group members experience rebuff from the host country. I reconcile the perspectives and answer the puzzle of persistent pro-immigrant policy preferences among integrated Latinxs. In light of heightened interior immigration enforcement and the increased societal integration of undocumented immigrants in the U.S., I demonstrate perceptibly threatening immigration enforcement contexts forestall attitudinal convergence on immigration policy preferences across 6 nationally representative surveys of Latinxs. Absent deportation threat, Latinx immigration policy attitudes converge with white Anglos. Deportation threat operates net of well-established alternative mechanisms such as discrimination, ethnic context(s), and ethnic identity. These results problematize preexisting conclusions on the political consequences of threat and suggest attitudinal assimilation is not preordained among immigrant group members.
-
-**Less Policing, Less Problems: The Impact of Strategic Depolicing (with Donald Grasse)** [[PDF]](pdfs/wps/depolicing_nash.pdf)
-
-<center>
-<img src="files/outmain.png" vspace="5" style="width:80%">
-</center>
-
-
-What are the consequences of depolicing? We forward a theory of "strategic depolicing" that posits depolicing may not have deleterious consequences if it reduces unnecessary, ineffective police intrusions. We test the theory by exploiting an exogenous decrease in policing effort after the publication of an expert report finding Metropolitan Nashville Police Department tactics were racially biased and unimportant for public safety. We find police significantly reduced traffic stops, particularly for minor violations (e.g. order maintenance), after the report. Traffic stops became more efficient. Police were more likely to issue citations or make arrests and less likely to give warnings conditional on a stop. We do not find depolicing increased crime or traffic violations, and find some evidence "disorder" crimes decrease (e.g. drug possession, disorderly conduct). The findings suggest expert data analysis can motivate depolicing without the negative consequences typically associated with reductions in policing effort.
-
-**Deputize and Deport: The Effect of Immigration Enforcement on Policing** [[PDF]](pdfs/wps/deputize_deport.pdf)
-
-<center>
-<img src="files/raw_rdit.png" vspace="5" style="width:75%">
-</center>
-
-Does expanding the role of the police to include immigration enforcement reduce their effectiveness? I use a regression discontinuity design and daily data on over 17 million traffic stops to evaluate the effect of a policy directive increasing Texas Department of Public Safety (DPS) Highway Patrol presence near the border in the predominantly Latinx counties of Hidalgo and Starr for the purposes of anti-human and drug trafficking. I find the directive substantially increased the number of traffic stops in its area of operations, increased the rate of unnecessary stops, and decreased the stop-and-search hit rate for recovering relevant contraband (e.g. drugs, weapons). Moreover, the directive appears to have had limited effectiveness in detecting human smuggling, finding undocumented immigrants, and reducing crime. These effects are not driven by an influx of inexperienced troopers, but rather lower thresholds for initializing a traffic stop motivated by the directive, consistent with qualitative accounts of profiling and unwarranted policing in the South Texas region.
-
 ## Publications
 
 **How Social Ties with Undocumented Immigrants Motivate Latinx Political Participation (first author, with Hannah Walker and Matt Barreto)** *Forthcoming, Political Research Quarterly* [[PDF]](pdfs/pubs/prq_pacc.pdf) [[Replication]](https://www.dropbox.com/s/ywh8fwa9ms02nnc/replication_folder.zip?dl=0)
@@ -62,3 +35,30 @@ incentivized to participate in other arenas. We draw on two cross-sectional surv
 in 2015 with a robust oversample of noncitizens and another collected in 2018 of Latinos who are
 registered voters. We find evidence to support our theory, and in both datasets proximal contact is
 unrelated to voting, even as it is positively associated with other types of activities like protesting.
+
+## Working Papers 
+
+**Living in the Shadow of Deportation: How Deportation Threat Forestalls Attitudinal Assimilation Among Immigrants and Their Co-Ethnics (Job Market Paper)** *Under Review* [[PDF]](pdfs/wps/deportation_threat.pdf)
+<center>
+<img src="files/pp_final.png" vspace="5" style="width:60%">
+</center>
+
+Consistent with straight line assimilation theory, prior research demonstrates acculturation generates attitudinal convergence between immigrant group members and host country natives along several policy dimensions, including immigration. However, other perspectives suggest attitudinal convergence is not guaranteed in contexts where immigrant group members experience rebuff from the host country. I reconcile the perspectives and answer the puzzle of persistent pro-immigrant policy preferences among integrated Latinxs. In light of heightened interior immigration enforcement and the increased societal integration of undocumented immigrants in the U.S., I demonstrate perceptibly threatening immigration enforcement contexts forestall attitudinal convergence on immigration policy preferences across 6 nationally representative surveys of Latinxs. Absent deportation threat, Latinx immigration policy attitudes converge with white Anglos. Deportation threat operates net of well-established alternative mechanisms such as discrimination, ethnic context(s), and ethnic identity. These results problematize preexisting conclusions on the political consequences of threat and suggest attitudinal assimilation is not preordained among immigrant group members.
+
+**Less Policing, Less Problems: The Impact of Strategic Depolicing (with Donald Grasse)** [[PDF]](pdfs/wps/depolicing_nash.pdf)
+
+<center>
+<img src="files/outmain.png" vspace="5" style="width:80%">
+</center>
+
+
+What are the consequences of depolicing? We forward a theory of "strategic depolicing" that posits depolicing may not have deleterious consequences if it reduces unnecessary, ineffective police intrusions. We test the theory by exploiting an exogenous decrease in policing effort after the publication of an expert report finding Metropolitan Nashville Police Department tactics were racially biased and unimportant for public safety. We find police significantly reduced traffic stops, particularly for minor violations (e.g. order maintenance), after the report. Traffic stops became more efficient. Police were more likely to issue citations or make arrests and less likely to give warnings conditional on a stop. We do not find depolicing increased crime or traffic violations, and find some evidence "disorder" crimes decrease (e.g. drug possession, disorderly conduct). The findings suggest expert data analysis can motivate depolicing without the negative consequences typically associated with reductions in policing effort.
+
+**Deputize and Deport: The Effect of Immigration Enforcement on Policing** [[PDF]](pdfs/wps/deputize_deport.pdf)
+
+<center>
+<img src="files/raw_rdit.png" vspace="5" style="width:75%">
+</center>
+
+Does expanding the role of the police to include immigration enforcement reduce their effectiveness? I use a regression discontinuity design and daily data on over 17 million traffic stops to evaluate the effect of a policy directive increasing Texas Department of Public Safety (DPS) Highway Patrol presence near the border in the predominantly Latinx counties of Hidalgo and Starr for the purposes of anti-human and drug trafficking. I find the directive substantially increased the number of traffic stops in its area of operations, increased the rate of unnecessary stops, and decreased the stop-and-search hit rate for recovering relevant contraband (e.g. drugs, weapons). Moreover, the directive appears to have had limited effectiveness in detecting human smuggling, finding undocumented immigrants, and reducing crime. These effects are not driven by an influx of inexperienced troopers, but rather lower thresholds for initializing a traffic stop motivated by the directive, consistent with qualitative accounts of profiling and unwarranted policing in the South Texas region.
+
