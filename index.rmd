@@ -5,7 +5,7 @@ title: "Marcel F. Roman"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="files/headshot.png" align="left" hspace="15" vspace="5" style="width:40%">
+<img src="files/headshot.png" align="left" hspace="15" vspace="20" style="width:35%">
 
 <p> I am a Provost's Early Career Postdoctoral Fellow at the University of Texas-Austin Government department and a research fellow at the Latino Politics and Policy Initiative (LPPI). My research focuses on Race and Ethnic Politics in the United States, with an emphasis on Latinx politics, immigration, and policing.</p>
 
