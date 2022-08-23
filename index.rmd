@@ -5,7 +5,7 @@ title: "Marcel F. Roman"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="files/headshot.png" align="left" hspace="15" vspace="100" style="width:35%">
+<img src="files/headshot.png" align="left" hspace="15" vspace="65" style="width:40%">
 
 <p> I am a Provost's Early Career Postdoctoral Fellow at the University of Texas-Austin Government department and a research fellow at the Latino Politics and Policy Initiative (LPPI). My research focuses on Race and Ethnic Politics in the United States, with an emphasis on Latinx politics, immigration, and policing. I received my PhD in political science from the University of California-Los Angeles.</p>
 
@@ -13,4 +13,5 @@ title: "Marcel F. Roman"
 
 <p> [One paper stemming from the book project](pdfs/wps/deportation_threat.pdf) has won the 2021 WPSA and MPSA Best Paper in Latino/a Politics award. My research has been published in <i> Political Research Quarterly </i>; the <i> Journal of Race, Ethnicity and Politics; </i> and the <i> UCLA Law Review. </i> </p>
 
-<p> I manage the Policing Lab, a joint effort between the [Politics of Race and Ethnicity Lab](http://pre-lab.org/) and [Innovations for Peace and Development Lab](http://www.ipdutexas.org/), which focuses on collecting and cleaning administrative records to study the politics of police behavior. I have also served as an expert consultant on multiple lawsuits related to immigrant rights and immigrant incorporation including <i> New York vs. ICE </i> and <i> New York vs. United States Department of Commerce. </i> </p>
+<p> I have also served as an expert consultant on multiple lawsuits related to immigrant rights and immigrant incorporation including <i> New York vs. ICE </i> and <i> New York vs. United States Department of Commerce. </i> </p>
+

@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Publications
 
-**How Social Ties with Undocumented Immigrants Motivate Latinx Political Participation (first author, with Hannah Walker and Matt Barreto)** *Forthcoming, Political Research Quarterly* [[PDF]](pdfs/pubs/prq_cacc.pdf) [[Replication]](https://www.dropbox.com/s/ywh8fwa9ms02nnc/replication_folder.zip?dl=0)
+**How Social Ties with Undocumented Immigrants Motivate Latinx Political Participation (first author, with Hannah Walker and Matt Barreto)** *Political Research Quarterly* [[PDF]](pdfs/pubs/prq_cacc.pdf) [[Replication]](https://www.dropbox.com/s/ywh8fwa9ms02nnc/replication_folder.zip?dl=0)
 
 **The Ripple Effect: The Political Consequences of Proximal Contact with Immigration Enforcement (with Matt Barreto and Hannah Walker)** *Journal of Race Ethnicity and Politics* [[PDF]](pdfs/pubs/ripple_effect.pdf)
 
@@ -39,4 +39,6 @@ permalink: /research/
 **Permissive but Limited Immigration Policies Have a Minimal Effect On the Emotional and Mental Well-Being of the Latinx Population (with Benjamin Newman)**
 
 **How Social Ties with Undocumented Immigrants Inform Latinx Identity Formation (with Ana Oaxaca and Rodolfo Solis)**
+
+**Policing Socio-Geographic Change and Displacement (with Allison Verrilli, Hannah Walker, Derek Epp, Amy Liu, and Mike Findley)**
 
