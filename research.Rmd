@@ -6,6 +6,8 @@ permalink: /research/
 
 ## Publications
 
+**The Wages of Latinidad: How Immigration Enforcement Mitigates Anti-Black Assimilation (with Crystal Robertson)** *Political Behavior* [[PDF]](pdfs/pubs/wages.pdf) [[Replication]](https://doi.org/10.7910/DVN/WG1QRH)
+
 **Living in the Shadow of Deportation: How Immigration Enforcement Forestalls Political Assimilation ** *Political Research Quarterly* [[PDF]](pdfs/pubs/depthreat1.pdf) [[Replication]](https://www.dropbox.com/s/j362qehlr3p2an6/replication_prq.zip?dl=0)
 
 **How Social Ties with Undocumented Immigrants Motivate Latinx Political Participation (first author, with Hannah Walker and Matt Barreto)** *Political Research Quarterly* [[PDF]](pdfs/pubs/prq_cacc.pdf) [[Replication]](https://www.dropbox.com/s/ywh8fwa9ms02nnc/replication_folder.zip?dl=0)
@@ -16,8 +18,6 @@ permalink: /research/
 <br> <br> 
 
 ## Submitted/Under Review
-
-**The Wages of Latinidad: How Immigration Enforcement Mitigates Anti-Black Assimilation (with Crystal Robertson)** *R&R, Political Behavior* [[PDF]](pdfs/wps/depblk.pdf)
 
 **Exposure to anti-LGBTQ+ Violence and the Adoption of Prosocial Political Attitudes Towards LGBTQ+ People (with Jack Thompson)** *R&R, APSR* [[PDF]](pdfs/wps/pulse.pdf)
 
