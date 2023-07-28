@@ -6,39 +6,37 @@ permalink: /research/
 
 ## Publications
 
+**Consent Searches: Evaluating the Usefulness of a Common and Highly Discretionary Police Practice (with Megan Dias, Derek Epp, and Hannah Walker)** the *Journal of Empirical Legal Studies* [[PDF]](pdfs/pubs/consentfinal.pdf)
+
 **The Wages of Latinidad: How Immigration Enforcement Mitigates Anti-Black Assimilation (with Crystal Robertson)** *Political Behavior* [[PDF]](pdfs/pubs/wages.pdf) [[Replication]](https://doi.org/10.7910/DVN/WG1QRH)
 
 **Living in the Shadow of Deportation: How Immigration Enforcement Forestalls Political Assimilation ** *Political Research Quarterly* [[PDF]](pdfs/pubs/depthreat1.pdf) [[Replication]](https://www.dropbox.com/s/j362qehlr3p2an6/replication_prq.zip?dl=0)
 
 **How Social Ties with Undocumented Immigrants Motivate Latinx Political Participation (first author, with Hannah Walker and Matt Barreto)** *Political Research Quarterly* [[PDF]](pdfs/pubs/prq_cacc.pdf) [[Replication]](https://www.dropbox.com/s/ywh8fwa9ms02nnc/replication_folder.zip?dl=0)
 
-**The Ripple Effect: The Political Consequences of Proximal Contact with Immigration Enforcement (with Matt Barreto and Hannah Walker)** *Journal of Race Ethnicity and Politics* [[PDF]](pdfs/pubs/ripple_effect.pdf)
+**The Ripple Effect: The Political Consequences of Proximal Contact with Immigration Enforcement (with Matt Barreto and Hannah Walker)** the *Journal of Race, Ethnicity, and Politics* [[PDF]](pdfs/pubs/ripple_effect.pdf)
 
 **The Direct and Indirect Effects of Immigration Enforcement on Latino Political Engagement (with Matt Barreto and Hannah Walker)** *UCLA Law Review* [[PDF]](pdfs/pubs/enforcement_engagement.pdf)
-<br> <br> 
-
-## Submitted/Under Review
-
-**Exposure to anti-LGBTQ+ Violence and the Adoption of Prosocial Political Attitudes Towards LGBTQ+ People (with Jack Thompson)** *R&R, APSR* [[PDF]](pdfs/wps/pulse.pdf)
-
-**How Immigration Enforcement Shapes Latinx Candidate Preferences (with Angie Gutierrez)**  [[PDF]](pdfs/wps/threatprefs.pdf)
-
-**Consent Searches: Evaluating the Usefulness of a Common and Highly Discretionary Police Practice (with Megan Dias, Derek Epp, and Hannah Walker)** [[PDF]](pdfs/wps/consent.pdf)
-
-**Exposure to Police Violence, Service Protection and Voter Support for Defunding the Police (with Benjamin Newman)** [[PDF]](pdfs/wps/dtp.pdf)
 <br> <br> 
 
 ## Working Papers
 
 **In the Shadow of Deportation: How Immigration Enforcement Shapes The Politics of Latinx Communities (Book Project)**
 
+**Exposure to anti-LGBTQ+ Violence and the Adoption of Prosocial Political Attitudes Towards LGBTQ+ People (with Jack Thompson)** *R&R, APSR* [[PDF]](pdfs/wps/pulse.pdf)
+
+**How Immigration Enforcement Shapes Latinx Candidate Preferences (with Angie Gutierrez)**  [[PDF]](pdfs/wps/threatprefs.pdf)
+
+**Exposure to Police Violence, Service Protection and Voter Support for Defunding the Police (with Benjamin Newman)** [[PDF]](pdfs/wps/dtp.pdf)
+
 **The George Floyd Effect: How Protests and Public Scrutiny Change Police Behavior (with Chris Casella, Derek Epp, Klara Fredriksson, and Hannah Walker)** [[PDF]](pdfs/wps/depol.pdf)
 
-**The “Great Replacement” and Reproductive Politics: Non-White Population Growth and White Support for Legal Abortion (with Benjamin Newman and Tyler Reny)**
+**The Immigration-to-Reproduction Shift: Latino Population Growth and White Support for Legal Abortion (with Benjamin Newman and Tyler Reny)** [[PDF]](pdfs/wps/abortion.pdf)
 
-**Permissive but Limited Immigration Policies Have a Minimal Effect On the Emotional and Mental Well-Being of the Latinx Population (with Benjamin Newman)**
+**Policing Socio-Demographic Boundaries and Inequality (with Allison Verrilli, Hannah Walker, Derek Epp, Amy Liu, and Mike Findley)** [[PDF]](pdfs/wps/boundaries.pdf)
+
+**Racialized Mass Shootings and Attitudes Toward Targeted Groups (with Kiela Crabtree)** [[PDF]](pdfs/wps/rviolence.pdf)
+
+**The Partisan-Ideological Sorting of New American Citizens (with Marco Avina)**
 
 **How Social Ties with Undocumented Immigrants Inform Latinx Identity Formation (with Ana Oaxaca and Rodolfo Solis)**
-
-**Policing Socio-Geographic Change and Displacement (with Allison Verrilli, Hannah Walker, Derek Epp, Amy Liu, and Mike Findley)**
-
