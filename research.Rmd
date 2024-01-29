@@ -25,9 +25,9 @@ permalink: /research/
 
 **Exposure to anti-LGBTQ+ Violence and the Adoption of Prosocial Political Attitudes Towards LGBTQ+ People (with Jack Thompson)** *R&R, APSR* [[PDF]](pdfs/wps/pulse.pdf)
 
-**How Immigration Enforcement Shapes Latinx Candidate Preferences (with Angie Gutierrez)**  [[PDF]](pdfs/wps/threatprefs.pdf)
+**Deporter-in-Chief or Champion-in-Chief? How the Threat of Immigration Enforcement Shapes Latinx Presidential Politician Evaluations (with Angela Gutierrez)**  [[PDF]](pdfs/wps/threatprefs.pdf)
 
-**Exposure to Police Violence, Service Protection and Voter Support for Defunding the Police (with Benjamin Newman)** [[PDF]](pdfs/wps/dtp.pdf)
+**Self-Interest and Voter Support for Defund the Police (with Benjamin Newman)** [[PDF]](pdfs/wps/dtp.pdf)
 
 **The George Floyd Effect: How Protests and Public Scrutiny Change Police Behavior (with Chris Casella, Derek Epp, Klara Fredriksson, and Hannah Walker)** [[PDF]](pdfs/wps/depol.pdf)
 
@@ -41,6 +41,8 @@ permalink: /research/
 
 **Does Diversity Undermine Support for Redistribution? (with Marco Avina)** [[PDF]](pdfs/wps/redistribution.pdf)
 
-**The Partisan-Ideological Sorting of New American Citizens (with Marco Avina)**
+**The Partisan-Ideological Sorting of New American Citizens (with Marco Avina)** [[PDF]](pdfs/wps/citsorting.pdf)
+
+**The Role of Migration Motive in Immigrant Political Incorporation (with Roberto Carlos and Mashail Malik)** 
 
 **How Social Ties with Undocumented Immigrants Inform Latinx Identity Formation (with Ana Oaxaca and Rodolfo Solis)**
