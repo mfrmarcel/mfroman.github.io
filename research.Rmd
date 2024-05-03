@@ -6,6 +6,8 @@ permalink: /research/
 
 ## Publications
 
+**How Exposure to Violence Against LGBTQ+ People Motivates Mass Prosocial Responses Toward LGBTQ+ Group Members (with Jack Thompson)** Conditionally Accepted, *APSR* [[PDF]](pdfs/pubs/pulseca.pdf) [[Supplemental Material]](pdfs/pubs/pulsecasm.pdf)
+
 **Consent Searches: Evaluating the Usefulness of a Common and Highly Discretionary Police Practice (with Megan Dias, Derek Epp, and Hannah Walker)** the *Journal of Empirical Legal Studies* [[PDF]](pdfs/pubs/consentfinal.pdf)
 
 **The Wages of Latinidad: How Immigration Enforcement Mitigates Anti-Black Assimilation (with Crystal Robertson)** *Political Behavior* [[PDF]](pdfs/pubs/wages.pdf) [[Replication]](https://doi.org/10.7910/DVN/WG1QRH)
@@ -22,8 +24,6 @@ permalink: /research/
 ## Working Papers
 
 **In the Shadow of Deportation: How Immigration Enforcement Shapes The Politics of Latinx Communities (Book Project)**
-
-**Exposure to anti-LGBTQ+ Violence and the Adoption of Prosocial Political Attitudes Towards LGBTQ+ People (with Jack Thompson)** *R&R, APSR* [[PDF]](pdfs/wps/pulse.pdf)
 
 **Deporter-in-Chief or Champion-in-Chief? How the Threat of Immigration Enforcement Shapes Latinx Presidential Politician Evaluations (with Angela Gutierrez)**  [[PDF]](pdfs/wps/threatprefs2.pdf)
 
