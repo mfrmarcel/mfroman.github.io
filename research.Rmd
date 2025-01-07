@@ -6,7 +6,11 @@ permalink: /research/
 
 ## Publications
 
-**Fickle Prosociality: How Exposure to Violence Against LGBTQ+ People Motivates Mass Prosocial Responses Toward LGBTQ+ Group Members (with Jack Thompson)** Forthcoming, *American Political Science Review* [[PDF]](pdfs/pubs/pulseca.pdf) [[Supplemental Material]](pdfs/pubs/pulsecasm.pdf)
+**Policing Socio-Demographic Boundaries and Inequality (with Allison Verrilli, Hannah Walker, Derek Epp, Amy Liu, and Mike Findley)** Forthcoming, *Perspectives on Politics* [[PDF]](pdfs/pubs/boundaries_fc.pdf)
+
+**The George Floyd Effect: How Protests and Public Scrutiny Change Police Behavior (with Chris Casella, Derek Epp, Klara Fredriksson, and Hannah Walker)** Forthcoming, *Perspectives on Politics* [[PDF]](pdfs/pubs/depol_fc.pdf)
+
+**Fickle Prosociality: How Exposure to Violence Against LGBTQ+ People Motivates Mass Prosocial Responses Toward LGBTQ+ Group Members (with Jack Thompson)** *American Political Science Review* [[PDF]](pdfs/pubs/pulseapsr.pdf) 
 
 **Consent Searches: Evaluating the Usefulness of a Common and Highly Discretionary Police Practice (with Megan Dias, Derek Epp, and Hannah Walker)** the *Journal of Empirical Legal Studies* [[PDF]](pdfs/pubs/consentfinal.pdf)
 
@@ -25,15 +29,15 @@ permalink: /research/
 
 **In the Shadow of Deportation: How Immigration Enforcement Shapes The Politics of Latinx Communities (Book Project)**
 
-**The George Floyd Effect: How Protests and Public Scrutiny Change Police Behavior (with Chris Casella, Derek Epp, Klara Fredriksson, and Hannah Walker)** *R&R, Perspectives on Politics* [[PDF]](pdfs/wps/depol.pdf)
-
-**Policing Socio-Demographic Boundaries and Inequality (with Allison Verrilli, Hannah Walker, Derek Epp, Amy Liu, and Mike Findley)** *R&R, Perspectives on Politics* [[PDF]](pdfs/wps/boundaries.pdf)
-
 **White Power! How White Status Threat Undercuts Backlash Against Anti-democratic Politicians (with Kiara Hernandez and Taeku Lee)** *R&R, Journal of Race, Ethnicity, and Politics* [[PDF]](pdfs/wps/j6.pdf)
 
 **Deporter-in-Chief or Champion-in-Chief? How the Threat of Immigration Enforcement Shapes Latinx Presidential Politician Evaluations (with Angela Gutierrez)**  [[PDF]](pdfs/wps/threatprefs3.pdf)
 
 **The X Factor: How Group Labels Shape Politics (with Amanda D'Urso)**  [[PDF]](pdfs/wps/latinx_project.pdf)
+
+<ul>
+  <li>Featured on the [Washington Post](https://www.washingtonpost.com/opinions/2024/11/01/latinx-latinos-trump-democrats/), [Newsweek](https://www.newsweek.com/latinx-latino-voters-donald-trump-1977268), the [Latin Times](https://www.latintimes.com/use-term-latinx-democratic-politicians-costing-them-votes-new-study-claims-564359), [LGBTQ Nation](https://www.lgbtqnation.com/2024/10/latino-voters-are-more-likely-to-oppose-politicians-who-use-the-term-latinx/), and the [Commonwealth Beacon](https://commonwealthbeacon.org/politics/study-finds-use-of-gender-neutral-latinx-by-democratic-pols-is-costing-them-votes/) </li>
+</ul>
 
 **Self-Interest and Voter Support for Defund the Police (with Benjamin Newman)** [[PDF]](pdfs/wps/dtp4.pdf)
 
