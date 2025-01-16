@@ -12,7 +12,7 @@ permalink: /research/
 
 **The George Floyd Effect: How Protests and Public Scrutiny Change Police Behavior (with Chris Casella, Derek Epp, Klara Fredriksson, and Hannah Walker)** Forthcoming, *Perspectives on Politics* [[PDF]](pdfs/pubs/depol_fc_2.pdf) [[Appendix]](pdfs/pubs/depol_appendix.pdf)
 
-**Fickle Prosociality: How Exposure to Violence Against LGBTQ+ People Motivates Mass Prosocial Responses Toward LGBTQ+ Group Members (with Jack Thompson)** *American Political Science Review* [[PDF]](pdfs/pubs/pulseapsr.pdf) 
+**Fickle Prosociality: How Exposure to Violence Against LGBTQ+ People Motivates Mass Prosocial Responses Toward LGBTQ+ Group Members (with Jack Thompson)** *American Political Science Review* [[PDF]](pdfs/pubs/pulseapsr.pdf) [[Replication]](https://doi.org/10.7910/DVN/PA2XXO)
 
 **Consent Searches: Evaluating the Usefulness of a Common and Highly Discretionary Police Practice (with Megan Dias, Derek Epp, and Hannah Walker)** the *Journal of Empirical Legal Studies* [[PDF]](pdfs/pubs/consentfinal.pdf)
 
