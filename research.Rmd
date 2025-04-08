@@ -6,11 +6,11 @@ permalink: /research/
 
 ## Publications
 
-**White Power! How White Status Threat Undercuts Backlash Against Anti-democratic Politicians (with Kiara Hernandez and Taeku Lee)** Forthcoming, *Journal of Race, Ethnicity, and Politics* [[PDF]](pdfs/pubs/j6_fc.pdf)
+**White Power! How White Status Threat Undercuts Backlash Against Anti-democratic Politicians (with Kiara Hernandez and Taeku Lee)** *Journal of Race, Ethnicity, and Politics* [[PDF]](pdfs/pubs/j6_fin.pdf)
 
-**Policing Socio-Demographic Boundaries and Inequality (with Allison Verrilli, Hannah Walker, Derek Epp, Amy Liu, and Mike Findley)** Forthcoming, *Perspectives on Politics* [[PDF]](pdfs/pubs/boundaries_fc.pdf)
+**Policing Socio-Demographic Boundaries and Inequality (with Allison Verrilli, Hannah Walker, Derek Epp, Amy Liu, and Mike Findley)** Forthcoming, *Perspectives on Politics* [[PDF]](pdfs/pubs/boundaries_fc.pdf) [[Replication]](https://doi.org/10.7910/DVN/LLRHWU)
 
-**The George Floyd Effect: How Protests and Public Scrutiny Change Police Behavior (with Chris Casella, Derek Epp, Klara Fredriksson, and Hannah Walker)** Forthcoming, *Perspectives on Politics* [[PDF]](pdfs/pubs/depol_fc_2.pdf) [[Appendix]](pdfs/pubs/depol_appendix.pdf)
+**The George Floyd Effect: How Protests and Public Scrutiny Change Police Behavior (with Chris Casella, Derek Epp, Klara Fredriksson, and Hannah Walker)** *Perspectives on Politics* [[PDF]](pdfs/pubs/gf_fin.pdf) [[Replication]](https://doi.org/10.7910/DVN/KKFQAH)
 
 **Fickle Prosociality: How Exposure to Violence Against LGBTQ+ People Motivates Mass Prosocial Responses Toward LGBTQ+ Group Members (with Jack Thompson)** *American Political Science Review* [[PDF]](pdfs/pubs/pulseapsr.pdf) [[Replication]](https://doi.org/10.7910/DVN/PA2XXO)
 
