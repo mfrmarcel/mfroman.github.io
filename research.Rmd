@@ -36,6 +36,8 @@ permalink: /research/
 
 **In the Shadow of Deportation: How Immigration Enforcement Shapes The Politics of Latinx Communities (Book Project)**
 
+**Which Immigrants do Citizens Prefer? A Meta-Reanalysis of 100 Conjoint Experiments (with Marco Avina, Taeku Lee, Mashail Malik, Reed Rasband, Priyanka Sethy)** [[PDF]](https://www.dropbox.com/scl/fi/j9lj2at7s7e3jdxds0tcg/meta.pdf?rlkey=nxy49hrpf6qz9cixsq72ue7v4&st=4x49gsgw&dl=0) *Minor R\&R, Science Advances*
+
 **Deporter-in-Chief or Champion-in-Chief? How the Threat of Immigration Enforcement Shapes Latinx Presidential Politician Evaluations (with Angela Gutierrez)**  [[PDF]](pdfs/wps/threatprefs3.pdf)
 
 **The X Factor: How Group Labels Shape Politics (with Amanda D'Urso)**  [[PDF]](pdfs/wps/latinx_project.pdf)
@@ -46,18 +48,18 @@ permalink: /research/
 
 **The Immigration-to-Reproduction Shift: Latino Population Growth and White Support for Legal Abortion (with Benjamin Newman and Tyler Reny)** [[PDF]](pdfs/wps/abortion.pdf)
 
-**Which Immigrants do Citizens Prefer? A Meta-Reanalysis of 100 Conjoint Experiments (with Marco Avina, Taeku Lee, Mashail Malik, Reed Rasband, Priyanka Sethy)** [[PDF]](https://www.dropbox.com/scl/fi/j9lj2at7s7e3jdxds0tcg/meta.pdf?rlkey=nxy49hrpf6qz9cixsq72ue7v4&st=4x49gsgw&dl=0)
-
 **The Role of Migration Motive in Immigrant Political Incorporation (with Roberto Carlos and Mashail Malik)** [[PDF]](https://www.dropbox.com/scl/fi/rslwc6g05h9wa8u14wikb/econmig.pdf?rlkey=sjqflhgkfl0u4c5t6pejgkwfk&dl=0) 
+
+**Immigration Enforcement, Policing, and Profiling (with David Hausman)** [[PDF]](pdfs/wps/immigration_policing.pdf) [[Appendix]](pdfs/wps/immigration_policing_app.pdf)
+
+**The Partisan-Ideological Sorting of New American Citizens (with Marco Avina)** [[PDF]](https://www.dropbox.com/scl/fi/xqqord593u8n8i09q466j/citsorting.pdf?rlkey=9nqed42m4muw3uo7bp938doz6&st=388ow9wt&dl=0)
+
+**No Backlash to Value-Aligned Policies: Reassessing Public Responses to High-Profile Immigration Reforms (with Alexander Kustov)** [[PDF]](pdfs/wps/nobacklash.pdf)
 
 **Racialized Mass Shootings and Attitudes Toward Targeted Groups (with Kiela Crabtree)** [[PDF]](pdfs/wps/rviolence.pdf)
 
-**How Police Respond to Increased Immigration Enforcement (with David Hausman)** [[PDF]](pdfs/wps/immigration_policing.pdf)
-
 **Does Diversity Undermine Support for Redistribution? (with Marco Avina)** [[PDF]](pdfs/wps/redistribution.pdf)
 
-**The Partisan-Ideological Sorting of New American Citizens (with Marco Avina)** [[PDF]](pdfs/wps/citsorting.pdf)
-
-**Latinos in the House? Demographic Change, Ethnic Attrition, and Latino Political Behavior (with Alexander Agadjanian and Alejandro Flores)**[[PDF]](pdfs/wps/ethnic_attrition.pdf) 
+**Latinos in the House? Demographic Change, Ethnic Attrition, and Latino Political Behavior (with Alexander Agadjanian and Alejandro Flores)** [[PDF]](pdfs/wps/ethnic_attrition.pdf) 
 
 **How Social Ties with Undocumented Immigrants Inform Latinx Identity Formation (with Ana Oaxaca and Rodolfo Solis)**

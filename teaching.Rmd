@@ -9,6 +9,10 @@ permalink: /teaching/
 
 **Instructor:**
 
+American Politics Graduate Seminar (w/Jim Snyder), Harvard (Fall 2025)
+
+[Identity Politics Graduate Seminar](pdfs/syllabus/gov2124_syllabus.pdf) (w/Mashail Malik), Harvard (Fall 2025)
+
 UCLA Political Science Graduate Math Camp (2018-2019)
 
 Introduction to Data Analysis with R Graduate Sessions, UCLA (2018-2019)
@@ -17,18 +21,9 @@ Introduction to Data Analysis with R Graduate Sessions, UCLA (2018-2019)
 
 **Instructor:** 
 
-Latinx Politics, Harvard (Fall 2024)
+[Racial Politics in America](pdfs/syllabus/gov1314_racial_politics.pdf), Harvard (Spring 2026)
+
+[Latinx Politics](pdfs/syllabus/gov1560_latinx_politics.pdf), Harvard (Fall 2024)
 
 Latinx Politics, UT-Austin (Spring 2022; Spring 2023)
 
-**Teaching Assistant:**
-
-Introductory Data Analysis, UCLA (Fall 2017)
-
-Comparative Politics, UCLA (Winter 2018)
-
-International Migration, UCLA (Spring 2018; Spring 2020)
-
-Latino Politics, UCLA (Fall 2019)
-
-History of Affirmative Action, UCLA (Winter 2020)
