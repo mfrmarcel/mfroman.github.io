@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Publications
 
-**Which Immigrants do Citizens Prefer? A Meta-Reanalysis of 100 Conjoint Experiments (with Marco Avina, Taeku Lee, Mashail Malik, Reed Rasband, Priyanka Sethy)** [[PDF]](https://www.dropbox.com/scl/fi/j9lj2at7s7e3jdxds0tcg/meta.pdf?rlkey=nxy49hrpf6qz9cixsq72ue7v4&st=4x49gsgw&dl=0) *Forthcoming, Science Advances*
+**Which Immigrants do Citizens Prefer? A Meta-Reanalysis of 100 Conjoint Experiments (with Marco Avina, Taeku Lee, Mashail Malik, Reed Rasband, Priyanka Sethy)** [[PDF]](https://www.dropbox.com/scl/fi/j9lj2at7s7e3jdxds0tcg/meta.pdf?rlkey=nxy49hrpf6qz9cixsq72ue7v4&st=4x49gsgw&dl=0) [[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5EU0EH) *Science Advances, Forthcoming* 
 
 **Late-Adolescents Entering College Intending a Career As Police Officers Hold More Right-Leaning Views Than Their Peers (with Tyler Reny, Benjamin Newman, and David Sears)** *Proceedings of the National Academy of Sciences* (2025) [[PDF]](pdfs/pubs/selection.pdf) [[Replication]](https://osf.io/tzfb9/files/osfstorage)
 
