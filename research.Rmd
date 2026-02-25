@@ -6,6 +6,8 @@ permalink: /research/
 
 ## Publications
 
+**Which Immigrants do Citizens Prefer? A Meta-Reanalysis of 100 Conjoint Experiments (with Marco Avina, Taeku Lee, Mashail Malik, Reed Rasband, Priyanka Sethy)** [[PDF]](https://www.dropbox.com/scl/fi/j9lj2at7s7e3jdxds0tcg/meta.pdf?rlkey=nxy49hrpf6qz9cixsq72ue7v4&st=4x49gsgw&dl=0) *Forthcoming, Science Advances*
+
 **Late-Adolescents Entering College Intending a Career As Police Officers Hold More Right-Leaning Views Than Their Peers (with Tyler Reny, Benjamin Newman, and David Sears)** *Proceedings of the National Academy of Sciences* (2025) [[PDF]](pdfs/pubs/selection.pdf) [[Replication]](https://osf.io/tzfb9/files/osfstorage)
 
 **Self-Interest and Voter Support for Defund the Police (first author, with Benjamin Newman)** *Electoral Studies* (2025) [[PDF]](pdfs/pubs/dtp_fin.pdf)  [[Replication]](https://www.dropbox.com/scl/fo/4ncs5v9h4jzp0jdo61mon/AE8qMsary3gnSLiR2sQYRh4?rlkey=7udwp19n4dlzecic0j6mpbjgf&st=onhxg6il&dl=0
@@ -36,7 +38,6 @@ permalink: /research/
 
 **In the Shadow of Deportation: How Immigration Enforcement Shapes The Politics of Latinx Communities (Book Project)**
 
-**Which Immigrants do Citizens Prefer? A Meta-Reanalysis of 100 Conjoint Experiments (with Marco Avina, Taeku Lee, Mashail Malik, Reed Rasband, Priyanka Sethy)** [[PDF]](https://www.dropbox.com/scl/fi/j9lj2at7s7e3jdxds0tcg/meta.pdf?rlkey=nxy49hrpf6qz9cixsq72ue7v4&st=4x49gsgw&dl=0) *Minor R\&R, Science Advances*
 
 **Deporter-in-Chief or Champion-in-Chief? How the Threat of Immigration Enforcement Shapes Latinx Presidential Politician Evaluations (with Angela Gutierrez)**  [[PDF]](pdfs/wps/threatprefs3.pdf)
 
